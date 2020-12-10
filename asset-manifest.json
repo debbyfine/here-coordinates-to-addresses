@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/here-coordinates-to-addresses/static/css/main.771996c3.chunk.css",
+    "main.js": "/here-coordinates-to-addresses/static/js/main.114cdccc.chunk.js",
+    "main.js.map": "/here-coordinates-to-addresses/static/js/main.114cdccc.chunk.js.map",
+    "runtime-main.js": "/here-coordinates-to-addresses/static/js/runtime-main.e48d67c9.js",
+    "runtime-main.js.map": "/here-coordinates-to-addresses/static/js/runtime-main.e48d67c9.js.map",
+    "static/js/2.7e18675e.chunk.js": "/here-coordinates-to-addresses/static/js/2.7e18675e.chunk.js",
+    "static/js/2.7e18675e.chunk.js.map": "/here-coordinates-to-addresses/static/js/2.7e18675e.chunk.js.map",
+    "static/js/3.fea22bab.chunk.js": "/here-coordinates-to-addresses/static/js/3.fea22bab.chunk.js",
+    "static/js/3.fea22bab.chunk.js.map": "/here-coordinates-to-addresses/static/js/3.fea22bab.chunk.js.map",
+    "index.html": "/here-coordinates-to-addresses/index.html",
+    "static/css/main.771996c3.chunk.css.map": "/here-coordinates-to-addresses/static/css/main.771996c3.chunk.css.map",
+    "static/js/2.7e18675e.chunk.js.LICENSE.txt": "/here-coordinates-to-addresses/static/js/2.7e18675e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/here-coordinates-to-addresses/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e48d67c9.js",
+    "static/js/2.7e18675e.chunk.js",
+    "static/css/main.771996c3.chunk.css",
+    "static/js/main.114cdccc.chunk.js"
+  ]
+}
