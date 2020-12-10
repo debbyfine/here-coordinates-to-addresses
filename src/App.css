@@ -1,0 +1,57 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #fafafa;
+    color: #1d1f20;
+    font-family: 'Helvetica', sans-serif;
+}
+
+main {
+    display: block;
+    margin: 0 auto;
+    max-width: 40rem;
+    padding: 1rem;
+}
+
+ol.gradient-list > li, ol.gradient-list > li::before {
+    box-shadow: 0.25rem 0.25rem 0.6rem rgba(0, 0, 0, 0.05), 0 0.5rem 1.125rem rgba(75, 0, 0, 0.05);
+}
+
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+ol.positions-list {
+    list-style: none;
+    margin: 1.75rem 0;
+    padding-left: 1rem;
+}
+
+ol.positions-list > li {
+    background: white;
+    border-radius: 0 0.5rem 0.5rem 0.5rem;
+    margin-top: 1rem;
+    padding: 1rem 1rem 1rem 3rem;
+    position: relative;
+}
+
+div.drag-drop {
+    height: 100vh;
+    max-height: 100vh;
+    width: 25vw;
+    float: left;
+    overflow-y: scroll;
+}
+
+div.map {
+    height: 100vh;
+    width: 75vw;
+    float: left;
+}
+
+
+
